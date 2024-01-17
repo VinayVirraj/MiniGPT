@@ -1,4 +1,4 @@
-# Song Generation Language Model (nanoGPT)
+# Song Generation Language Model
 
 ## Overview
 
