@@ -16,7 +16,7 @@ A small gpt model is trained from scratch for generating songs. The model is tra
 
 2. Install dependencies:
 
-3. Download and prepare the dataset. Include instructions on how to do this.
+3. Download and prepare the dataset.
 
 4. Train the model:
 
